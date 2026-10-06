@@ -80,7 +80,7 @@ export const Footer: React.FC<FooterProps> = ({ contactInfo }) => {
         {/* Bottom Bar */}
         <div className="pt-8 border-t border-neutral-900 flex flex-col sm:flex-row items-center justify-between gap-4 text-[11px] text-neutral-500">
           <p>
-            © {new Date().getFullYear()} Delhi Celebrity Salon · All Rights Reserved · Maharajganj, Uttar Pradesh · Desig & Developed by Karan
+            © {new Date().getFullYear()} Delhi Celebrity Salon · All Rights Reserved · Maharajganj, Uttar Pradesh · Design & Developed by Karan
           </p>
           <div className="flex items-center gap-6">
             <span>Local Luxury Beauty Salon in Maharajganj, UP</span>
